@@ -1,1 +1,1 @@
-# sales-dashboard
+In this Power BI project, wrote DAX queries to create calculated columns and tables, and designed an interactive dashboard from scratch. I implemented sales forecasting for predictive analysis and extracted key business insights. This project enhanced my skills in data transformation, visualization, and analytics using Power BI. 
